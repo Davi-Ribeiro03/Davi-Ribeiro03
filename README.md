@@ -1,10 +1,10 @@
 ## OII! Eu sou Davi Nascimento 👋
 
 <a href="https://github.com/Davi-Ribeiro03/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-Ribeiro03&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-Ribeiro03&show_icons=true&theme=transparent&text_color=ffffff" />
 </a>
 <a href="https://github.com/Davi-Ribeiro03/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Ribeiro03&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Ribeiro03&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=transparent&text_color=ffffff" />
 </a>
 
 <div style="display: inline_block"><br>
