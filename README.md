@@ -1,10 +1,10 @@
 ## OII! Eu sou Davi Nascimento 👋
 
 <a href="https://github.com/Davi-Ribeiro03/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-Ribeiro03&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davi-Ribeiro03&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Davi-Ribeiro03/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Ribeiro03&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-Ribeiro03&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=transparent" />
 </a>
 
 <div style="display: inline_block"><br>
@@ -14,7 +14,6 @@
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Davi-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Davi-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
